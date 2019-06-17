@@ -1,0 +1,14 @@
+C:\Users\t0114312\source\repos\Quizz\Quizz\bin\Debug\Quizz.exe.config
+C:\Users\t0114312\source\repos\Quizz\Quizz\bin\Debug\Quizz.exe
+C:\Users\t0114312\source\repos\Quizz\Quizz\bin\Debug\Quizz.pdb
+C:\Users\t0114312\source\repos\Quizz\Quizz\obj\Debug\Quizz.csprojAssemblyReference.cache
+C:\Users\t0114312\source\repos\Quizz\Quizz\obj\Debug\Quizz.Form1.resources
+C:\Users\t0114312\source\repos\Quizz\Quizz\obj\Debug\Quizz.Properties.Resources.resources
+C:\Users\t0114312\source\repos\Quizz\Quizz\obj\Debug\Quizz.Q1.resources
+C:\Users\t0114312\source\repos\Quizz\Quizz\obj\Debug\Quizz.Q2.resources
+C:\Users\t0114312\source\repos\Quizz\Quizz\obj\Debug\Quizz.q3.resources
+C:\Users\t0114312\source\repos\Quizz\Quizz\obj\Debug\Quizz.csproj.GenerateResource.cache
+C:\Users\t0114312\source\repos\Quizz\Quizz\obj\Debug\Quizz.csproj.CoreCompileInputs.cache
+C:\Users\t0114312\source\repos\Quizz\Quizz\obj\Debug\Quizz.exe
+C:\Users\t0114312\source\repos\Quizz\Quizz\obj\Debug\Quizz.pdb
+C:\Users\t0114312\source\repos\Quizz\Quizz\obj\Debug\Quizz.end.resources
